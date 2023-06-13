@@ -6,6 +6,6 @@ public class Main {
         System.out.println("1");
         System.out.println("2");
         System.out.println("3");
-        System.out.println("Пытаюсь сломать");
+        System.out.println("Пытаюсь сломать, номер 2");
     }
 }
